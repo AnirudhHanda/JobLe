@@ -1,1 +1,1 @@
-web: vendor/bin/heroku-php-apache2 JOBLE/
+web: vendor/bin/heroku-php-apache2 JobLe/
