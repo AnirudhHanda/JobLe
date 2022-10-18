@@ -1,4 +1,6 @@
 <?php
+
+
 $login = false;
 $showerror1 = false;
 $showalert = false;
@@ -9,6 +11,7 @@ $password = '';
 $database = 'jobs';
 
 $con = mysqli_connect($server, $username, $password, $database);
+
 
 if($con){
     echo"";
